@@ -1,1 +1,1 @@
-# hexlet-pytest
+[![linter-run](https://github.com/yuriy-kormin/hexlet-pytest/actions/workflows/linter-run.yml/badge.svg?branch=main)](https://github.com/yuriy-kormin/hexlet-pytest/actions/workflows/linter-run.yml)
